@@ -66,10 +66,10 @@ max_step = (evn.r*evn.c)
 gamme = config.gamme
 episodes_check = config.episodes_check
 
-epsilon = 1.0
-max_epsilon = 1.0
-min_epsilon = 0.01
-decay_rate = 0.0005
+epsilon = config.epsilon
+max_epsilon = config.max_epsilon
+min_epsilon = config.min_epsilon
+decay_rate = config.decay_rate
 
 tranning = True
 
