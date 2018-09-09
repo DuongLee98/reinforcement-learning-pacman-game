@@ -125,5 +125,5 @@ Môi trường train hiện tại:
 - Bốn ô xung quang là tường hay không?
 - Trong 8 ô gần nhất Ghost có xuất hiện hay không? và hướng gần nhât Ghost xuất hiện.
 - Pacman có đang rơi vào trạng thái bẫy hay không?
-- Hương đi ngắn nhất tới dot.
+- Hướng đi ngắn nhất tới dot.
 ```
