@@ -95,6 +95,11 @@ run file: check_q.py
 check(1, 'S') -> check(1, 'Q')
 ```
 , hoặc ngược lại)
+
+Một trận đấu sẽ được hiển thị trên terminal như sau:
+
+![alt text](https://i.imgur.com/Qm94651.png)
+
 ## Publish the result
 Dưới đây là kết quả khi train giữa Q-Learning vs SARSA:
 ![alt text](https://i.imgur.com/NGl5tYh.png)
